@@ -1,1 +1,6 @@
 mesos
+docker-commons-plugin
+docker-build-step
+credentials
+authentication-tokens
+dockerhub-notification-plugin
